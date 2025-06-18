@@ -2,7 +2,7 @@
 
 A visually stunning **Netflix Clone (Home UI only)** built to showcase front-end UI design skills using **HTML**, **CSS**, **JavaScript**, and optionally **Bootstrap 5**. This project focuses purely on the **interface** — not functionality — making it a great template or portfolio piece.
 
-🔗 **Live Demo:** [View Netflix Clone UI]([https://yourusername.github.io/netflix-ui-clone](https://courageous-medovik-b03af3.netlify.app/)
+🔗 **Live Demo:** [View Netflix Clone UI]([https://yourusername.github.io/netflix-ui-clone](https://nimble-manatee-629909.netlify.app/)
 
 ![netflix-ui-preview](preview-image-url-here) <!-- Replace with your preview screenshot -->
 
